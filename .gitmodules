@@ -1,0 +1,9 @@
+[submodule "excursion"]
+	path = excursion
+	url = https://github.com/Iskandar-S/excursion.git
+[submodule "mixed_messages"]
+	path = mixed_messages
+	url = https://github.com/Iskandar-S/mixed_messages.git
+[submodule "website_design_system"]
+	path = website_design_system
+	url = https://github.com/Iskandar-S/website_design_system.git
