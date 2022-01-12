@@ -7,3 +7,6 @@
 [submodule "website_design_system"]
 	path = website_design_system
 	url = https://github.com/Iskandar-S/website_design_system.git
+[submodule "piano_player"]
+	path = piano_player
+	url = https://github.com/Iskandar-S/piano_player.git
