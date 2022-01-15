@@ -10,3 +10,6 @@
 [submodule "piano_player"]
 	path = piano_player
 	url = https://github.com/Iskandar-S/piano_player.git
+[submodule "tea_cozy"]
+	path = tea_cozy
+	url = https://github.com/Iskandar-S/tea_cozy.git
